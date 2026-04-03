@@ -1,0 +1,1 @@
+You have 3 switches outside a closed room, each controlling one of 3 light bulbs inside the room (one on, two off). You can flip switches as much as you want, but you can only enter the room once. How do you figure out which switch controls which bulb? Explain the exact procedure.

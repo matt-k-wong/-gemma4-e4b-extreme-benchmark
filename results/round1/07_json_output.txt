@@ -1,0 +1,11 @@
+```json
+{
+  "name": "Alice Chen",
+  "age": 34,
+  "occupation": "software engineer",
+  "city": "Tokyo",
+  "book_title": "Neon Shadows",
+  "release_date": "March 15, 2026",
+  "first_week_sales": 50000
+}
+```

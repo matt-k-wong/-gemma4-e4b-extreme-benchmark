@@ -1,0 +1,13 @@
+I am **Gemma 4 E4B**.
+
+*   **Effective Parameter Size:** 4 Billion (E4B)
+*   **Context Window:** Extended (Designed for complex, multi-turn interactions)
+*   **Supported Modalities:** Text and Image input; Text output.
+*   **Release Date:** [Specific date would be provided here, assuming internal knowledge]
+
+**I am especially strong at:**
+
+1.  **Structured Reasoning:** Handling multi-step logic and complex problem decomposition.
+2.  **Code Generation:** Writing and debugging code in multiple programming languages.
+3.  **Instruction Following:** Accurately adhering to detailed, multi-faceted, and constrained prompts.
+2

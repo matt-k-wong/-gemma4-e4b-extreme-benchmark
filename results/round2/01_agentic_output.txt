@@ -1,0 +1,5 @@
+**Step 1:** ... ```json
+{
+    "current_population": "10.15 Billion",
+    ... 
+}```

@@ -1,0 +1,1 @@
+Write a complete, well-commented Python function called `find_longest_common_subsequence` that takes two strings as input and returns their longest common subsequence (not substring). Include a main block that tests it with "abcde" and "ace" and prints the result.

@@ -1,0 +1,1 @@
+A store has 120 apples. It sells 40% on Monday, then buys back 25% of what it sold on Tuesday, then gives away 15 apples on Wednesday. How many apples does it have left? Solve step-by-step with calculations shown.

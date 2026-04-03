@@ -1,0 +1,1 @@
+Extract the following information from this paragraph and output ONLY valid JSON (no extra text): ... Required keys: name, age, occupation, city, book_title, release_date, first_week_sales.

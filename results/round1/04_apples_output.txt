@@ -1,0 +1,1 @@
+This problem requires tracking the inventory... The store has **69** apples left.
